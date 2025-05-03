@@ -1,0 +1,5 @@
+n = int(input("Enter a number: "))
+nums = ''.join([str(num + 1) for num in range(n)])
+print("Numbers:", nums)
+sum_nums = sum(range(1, n + 1))
+print("Sum of numbers:", sum_nums)
