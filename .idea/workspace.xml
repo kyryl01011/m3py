@@ -42,6 +42,9 @@
     "Python.bubble_sort.executor": "Run",
     "Python.multiplication_table.executor": "Run",
     "Python.number_sum.executor": "Run",
+    "Python.practice_dicts.executor": "Run",
+    "Python.practice_lists.executor": "Run",
+    "Python.practice_sets.executor": "Run",
     "Python.practice_strings.executor": "Run",
     "Python.triangle_check.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -71,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1746298349046</updated>
       <workItem from="1746298350078" duration="11692000" />
-      <workItem from="1746348375633" duration="3884000" />
+      <workItem from="1746348375633" duration="9548000" />
     </task>
     <servers />
   </component>
@@ -80,11 +83,14 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/module_3_cycles$additional_tasks_funcs.coverage" NAME="additional_tasks_funcs Coverage Results" MODIFIED="1746311548174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/module_3_cycles$practice_lists.coverage" NAME="practice_lists Coverage Results" MODIFIED="1746362111660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/module_3_cycles$triangle_check.coverage" NAME="triangle_check Coverage Results" MODIFIED="1746299853142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/module_3_cycles$practice_dicts.coverage" NAME="practice_dicts Coverage Results" MODIFIED="1746364956611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/module_3_cycles$multiplication_table.coverage" NAME="multiplication_table Coverage Results" MODIFIED="1746302494705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/module_3_cycles$number_sum.coverage" NAME="number_sum Coverage Results" MODIFIED="1746299779451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/module_3_cycles$additional_tasks_cycles.coverage" NAME="additional_tasks_cycles Coverage Results" MODIFIED="1746314186385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/module_3_cycles$practice_strings.coverage" NAME="practice_strings Coverage Results" MODIFIED="1746356582880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/module_3_cycles$practice_sets.coverage" NAME="practice_sets Coverage Results" MODIFIED="1746365204572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/module_3_cycles$bubble_sort.coverage" NAME="bubble_sort Coverage Results" MODIFIED="1746308702334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/module_3_cycles$additional_tasks_conditional_constr.coverage" NAME="additional_tasks_conditional_constr Coverage Results" MODIFIED="1746312228836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
